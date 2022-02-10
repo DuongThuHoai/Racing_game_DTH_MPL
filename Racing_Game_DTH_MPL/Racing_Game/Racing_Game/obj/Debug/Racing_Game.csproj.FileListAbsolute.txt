@@ -1,0 +1,9 @@
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_Game.csprojAssemblyReference.cache
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_game.Form1.resources
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_Game.Properties.Resources.resources
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_Game.csproj.GenerateResource.cache
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\bin\Debug\Racing_Game.exe.config
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\bin\Debug\Racing_Game.exe
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\bin\Debug\Racing_Game.pdb
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_Game.exe
+G:\NNLTNC-C#\WinForm\Racing_Game\Racing_Game\obj\Debug\Racing_Game.pdb
